@@ -9,6 +9,7 @@ The purpose of this project is help Pyber to create a compelling visualization o
 
 ##Result
 
+
 ![pict_1](https://github.com/assaci/School_District_Analysis/blob/main/pict_1.PNG?raw=true)
 
 
